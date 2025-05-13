@@ -1,1 +1,4 @@
 ![file screenshoot gambar](https://github.com/gita5315/TUGASPHP/tree/main/File%20Screenshoot)
+
+penjelasan singakat : 
+Program ini menciptakan sebuah aplikasi daftar tugas berbasis web yang memiliki opsi untuk login dan pendaftaran akun. Setelah berhasil masuk, pengguna memiliki kemampuan untuk menambah, menandai tugas yang telah selesai, atau menghapus tugas sesuai dengan kebutuhan mereka. Tiap pengguna hanya dapat melihat dan mengelola tugas yang dimilikinya sendiri. Apabila yang masuk adalah akun admin, maka akan ditampilkan foto khusus dan tulisan “admin - 235314017”, sementara akun lainnya hanya menunjukkan nama pengguna dengan foto standar. Semua informasi terkait pengguna dan tugas disimpan secara otomatis dalam database. Aplikasi ini juga memastikan bahwa hanya pengguna yang sudah masuk yang diperbolehkan mengakses halaman daftar tugas.
